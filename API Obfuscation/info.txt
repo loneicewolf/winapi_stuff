@@ -2,5 +2,6 @@
 
 #
 #Forked version here https://github.com/loneicewolf/vs-obfuscation
+#Forked version here https://github.com/loneicewolf/Win_API_Obfuscation
 #
 
