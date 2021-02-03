@@ -1,0 +1,6 @@
+
+
+#
+#Forked version here https://github.com/loneicewolf/vs-obfuscation
+#
+
